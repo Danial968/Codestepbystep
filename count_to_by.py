@@ -14,5 +14,3 @@ def count_to_by(number,step):
     result = ''
     line = helper(number,step,result)
     print(line[1:])
-
-count_to_by(0,1)
